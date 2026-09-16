@@ -6,7 +6,7 @@
 
 A purely client-side, zero-knowledge file hashing engine built with React and CryptoJS. This tool allows users to securely generate cryptographic digests (MD5, SHA-1, SHA-256) of any file directly within their browser, ensuring no sensitive data is ever transmitted over the network.
 
-**[🔴 Live Deployment (Vercel)](prostackhub-file-hash-generator.vercel.app)**
+**[🔴 Live Deployment (Vercel)]([prostackhub-file-hash-generator.vercel.app](https://prostackhub-file-hash-generator-mcjshen3m-naman-s-projects9.vercel.app/))**
 
 ---
 
